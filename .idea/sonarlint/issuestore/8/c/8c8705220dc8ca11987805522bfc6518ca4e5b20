@@ -1,22 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ®¤
-E
-java:S1604"(Make this anonymous inner class a lambda(ÿïŞß8ÑôÖê­/
-H
-java:S1860"&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ8ØôÖê­/
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8×ôÖê­/
-`
-java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8ØôÖê­/
-C
-java:S1860"&Synchronize on a new "Object" instead.(ºá£¨8×ôÖê­/
-E	java:S108")Either remove or fill this block of code.(ºá£¨8ØôÖê­/
-C
-java:S1860"&Synchronize on a new "Object" instead.(ºá£¨8ı´×ê­/
-{
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ı´×ê­/
-`
-java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¯ú™ú8ı´×ê­/
-H
-java:S1860""&Synchronize on a new "Object" instead.(ÈÑ³şÿÿÿÿ8ı´×ê­/
-J	java:S108"")Either remove or fill this block of code.(ÈÑ³şÿÿÿÿ8ı´×ê­/
